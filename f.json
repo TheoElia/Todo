@@ -1,0 +1,487 @@
+{
+    "drug_ids": [
+        1732
+    ],
+    "username": "TheoElia",
+    "quantities": [
+        {
+            "1732": 3
+        }
+    ],
+    "objects": [
+        {
+            "nickname": "Lyrica",
+            "id": 1732,
+            "drug_type": [],
+            "currency": "GHS",
+            "price": 5,
+            "pharmacy_name": "Pharst Care Ghana",
+            "pharmacy_contacts": [
+                "+233203592400"
+            ],
+            "pharmacy_id": 131,
+            "on_guard": false,
+            "latitude": 0,
+            "longitude": 0,
+            "delivery": true,
+            "images": [],
+            "show_prices": true,
+            "available": true,
+            "divisions": [
+                {
+                    "id": 1670,
+                    "division": "box",
+                    "price": 100,
+                    "strength": null,
+                    "unit": null,
+                    "quantity": 10,
+                    "count": 1,
+                    "drug_name": "Lyrica"
+                },
+                {
+                    "id": 2239,
+                    "division": "strip",
+                    "price": 5,
+                    "strength": null,
+                    "unit": null,
+                    "quantity": 10
+                }
+            ],
+            "pharmacies": [
+                {
+                    "name": "Pharst Care Ghana",
+                    "id": 131,
+                    "on_guard": false,
+                    "delivery": true,
+                    "country": "Ghana",
+                    "longitude": 0,
+                    "latitude": 0,
+                    "distance": "0 km",
+                    "pharmacy_contacts": [
+                        "+233203592400"
+                    ],
+                    "pharmacy_location": "Ghana",
+                    "pharmacy_google_address": "",
+                    "images": [],
+                    "opened": true,
+                    "days": [
+                        [
+                            "Sunday",
+                            1
+                        ],
+                        [
+                            "Monday",
+                            2
+                        ],
+                        [
+                            "Tuesday",
+                            3
+                        ],
+                        [
+                            "Wednesday",
+                            4
+                        ],
+                        [
+                            "Thursday",
+                            5
+                        ],
+                        [
+                            "Friday",
+                            6
+                        ],
+                        [
+                            "Saturday",
+                            7
+                        ]
+                    ],
+                    "times": [
+                        "05:00-22:00",
+                        "05:00-22:00",
+                        "05:00-22:00",
+                        "05:00-22:00",
+                        "05:00-22:00",
+                        "05:00-22:00",
+                        "05:00-22:00"
+                    ],
+                    "time_today": [
+                        "05:00",
+                        "22:00"
+                    ],
+                    "next_day": "Monday",
+                    "opens_tomorrow": true,
+                    "time_next_day": [
+                        "05:00",
+                        "22:00"
+                    ]
+                },
+                {
+                    "name": "LifeCare Pharmacy",
+                    "id": 3,
+                    "on_guard": false,
+                    "delivery": true,
+                    "country": "Ghana",
+                    "longitude": -0.1242721,
+                    "latitude": 5.8105902,
+                    "distance": "0.824 km",
+                    "pharmacy_contacts": [
+                        "+233272181047"
+                    ],
+                    "pharmacy_location": "Kas Valley, Oyibi. Off Dodowa road",
+                    "pharmacy_google_address": "https://www.google.com/maps/place/LifeCare+Pharmacy/@5.8103338,-0.1244345,338m/data=!3m1!1e3!4m12!1m6!3m5!1s0xfdf795f89398231:0x496a551db41471a9!2sKas+Valley+Restaurant+%26bar!8m2!3d5.8105822!4d-0.1241277!3m4!1s0xfdf798a32341cc7:0xecf7d04094fb3d35!8m2!3d5.8105902!4d-0.1242721",
+                    "images": [],
+                    "opened": true,
+                    "days": [
+                        [
+                            "Sunday",
+                            1
+                        ],
+                        [
+                            "Monday",
+                            2
+                        ],
+                        [
+                            "Tuesday",
+                            3
+                        ],
+                        [
+                            "Wednesday",
+                            4
+                        ],
+                        [
+                            "Thursday",
+                            5
+                        ],
+                        [
+                            "Friday",
+                            6
+                        ],
+                        [
+                            "Saturday",
+                            7
+                        ]
+                    ],
+                    "times": [
+                        "09:00 - 23:00",
+                        "06:00 - 23:00",
+                        "06:00 - 23:00",
+                        "06:00 - 23:00",
+                        "06:00 - 23:00",
+                        "06:00 - 23:00",
+                        "06:00 - 23:00"
+                    ],
+                    "time_today": [
+                        "09:00",
+                        "23:00"
+                    ],
+                    "next_day": "Monday",
+                    "opens_tomorrow": true,
+                    "time_next_day": [
+                        "06:00",
+                        "23:00"
+                    ]
+                },
+                {
+                    "name": "Oty's Pharmacy",
+                    "id": 86,
+                    "on_guard": false,
+                    "delivery": false,
+                    "country": "Ghana",
+                    "longitude": -0.1275307,
+                    "latitude": 5.7990574,
+                    "distance": "0.852 km",
+                    "pharmacy_contacts": [
+                        "+233206417504",
+                        "+233247344168"
+                    ],
+                    "pharmacy_location": "Opposite Valley View University, Across the road, near the VVU bus stop",
+                    "pharmacy_google_address": "https://www.google.com/maps/place/Otys+Pharmacy/@5.7990574,-0.1275307,95m/data=!3m1!1e3!4m14!1m8!3m7!1s0x0:0x0!2zNcKwNDcnNTYuOCJOIDDCsDA3JzM4LjgiVw!3b1!7e2!8m2!3d5.7991184!4d-0.1274322!3m4!1s0xfdf795560233c43:0xc8c4b363a7409649!8m2!3d5.7990184!4d-0.127476",
+                    "images": [
+                        "/media/static/images/1573674229729455322325100358420.jpg",
+                        "/media/static/images/15736742584398686434316326208381.jpg",
+                        "/media/static/images/15736742895323133361465505638106.jpg"
+                    ],
+                    "opened": true,
+                    "days": [
+                        [
+                            "Sunday",
+                            1
+                        ],
+                        [
+                            "Monday",
+                            2
+                        ],
+                        [
+                            "Tuesday",
+                            3
+                        ],
+                        [
+                            "Wednesday",
+                            4
+                        ],
+                        [
+                            "Thursday",
+                            5
+                        ],
+                        [
+                            "Friday",
+                            6
+                        ],
+                        [
+                            "Saturday",
+                            7
+                        ]
+                    ],
+                    "times": [
+                        "06:00-23:00",
+                        "06:00-23:00",
+                        "06:00-23:00",
+                        "06:00-23:00",
+                        "06:00-23:00",
+                        "06:00-23:00",
+                        "06:00-23:00"
+                    ],
+                    "time_today": [
+                        "06:00",
+                        "23:00"
+                    ],
+                    "next_day": "Monday",
+                    "opens_tomorrow": true,
+                    "time_next_day": [
+                        "06:00",
+                        "23:00"
+                    ]
+                },
+                {
+                    "name": "Menq Pharmacy",
+                    "id": 1,
+                    "on_guard": false,
+                    "delivery": false,
+                    "country": "Ghana",
+                    "longitude": -0.1337439,
+                    "latitude": 5.793836,
+                    "distance": "1.752 km",
+                    "pharmacy_contacts": [
+                        "+233200632210"
+                    ],
+                    "pharmacy_location": "Malejor, near Havaad School Junction, Off Dodowa - Oyibi road",
+                    "pharmacy_google_address": "https://www.google.com/maps/place/Menq+Pharmacy/@5.787099,-0.1322912,914m/data=!3m1!1e3!4m8!1m2!3m1!2sMenq+Pharmacy+Malejor!3m4!1s0xfdf79bf656ac0cd:0x4bdcb9b82a9ef0de!8m2!3d5.7894825!4d-0.1302467",
+                    "images": [],
+                    "opened": true,
+                    "days": [
+                        [
+                            "Sunday",
+                            1
+                        ],
+                        [
+                            "Monday",
+                            2
+                        ],
+                        [
+                            "Tuesday",
+                            3
+                        ],
+                        [
+                            "Wednesday",
+                            4
+                        ],
+                        [
+                            "Thursday",
+                            5
+                        ],
+                        [
+                            "Friday",
+                            6
+                        ],
+                        [
+                            "Saturday",
+                            7
+                        ]
+                    ],
+                    "times": [
+                        "13:00-22:00",
+                        "06:00-22:00",
+                        "06:00-22:00",
+                        "06:00-22:00",
+                        "06:00-22:00",
+                        "06:00-22:00",
+                        "06:00-22:00"
+                    ],
+                    "time_today": [
+                        "13:00",
+                        "22:00"
+                    ],
+                    "next_day": "Monday",
+                    "opens_tomorrow": true,
+                    "time_next_day": [
+                        "06:00",
+                        "22:00"
+                    ]
+                },
+                {
+                    "name": "Pharmrite",
+                    "id": 11,
+                    "on_guard": false,
+                    "delivery": false,
+                    "country": "Ghana",
+                    "longitude": -0.1328631,
+                    "latitude": 5.7850477,
+                    "distance": "2.433 km",
+                    "pharmacy_contacts": [
+                        "0204198915"
+                    ],
+                    "pharmacy_location": "Edlorm, near citydia, off dodowa-oyibi road",
+                    "pharmacy_google_address": "",
+                    "images": [],
+                    "opened": true,
+                    "days": [
+                        [
+                            "Sunday",
+                            1
+                        ],
+                        [
+                            "Monday",
+                            2
+                        ],
+                        [
+                            "Tuesday",
+                            3
+                        ],
+                        [
+                            "Wednesday",
+                            4
+                        ],
+                        [
+                            "Thursday",
+                            5
+                        ],
+                        [
+                            "Friday",
+                            6
+                        ],
+                        [
+                            "Saturday",
+                            7
+                        ]
+                    ],
+                    "times": [
+                        "14:00-21:00",
+                        "08:00-21:00",
+                        "08:00-21:00",
+                        "08:00-21:00",
+                        "08:00-21:00",
+                        "08:00-21:00",
+                        "08:00-21:00"
+                    ],
+                    "time_today": [
+                        "14:00",
+                        "21:00"
+                    ],
+                    "next_day": "Monday",
+                    "opens_tomorrow": true,
+                    "time_next_day": [
+                        "08:00",
+                        "21:00"
+                    ]
+                }
+            ],
+            "next-page": true,
+            "type": "drug",
+            "opened": true,
+            "days": [
+                [
+                    "Sunday",
+                    1
+                ],
+                [
+                    "Monday",
+                    2
+                ],
+                [
+                    "Tuesday",
+                    3
+                ],
+                [
+                    "Wednesday",
+                    4
+                ],
+                [
+                    "Thursday",
+                    5
+                ],
+                [
+                    "Friday",
+                    6
+                ],
+                [
+                    "Saturday",
+                    7
+                ]
+            ],
+            "times": [
+                "05:00-22:00",
+                "05:00-22:00",
+                "05:00-22:00",
+                "05:00-22:00",
+                "05:00-22:00",
+                "05:00-22:00",
+                "05:00-22:00"
+            ],
+            "time_today": [
+                "05:00",
+                "22:00"
+            ],
+            "contact": "+233203592400",
+            "technical_name": "Pregabalin",
+            "resource_uri": "1732",
+            "short_info": null,
+            "distance": "0 km",
+            "pharmacy_location": "Ghana",
+            "pharmacy_google_address": "",
+            "strength": [
+                "75"
+            ],
+            "unit": "mg",
+            "next_day": "Monday",
+            "opens_tomorrow": true,
+            "time_next_day": [
+                "05:00",
+                "22:00"
+            ]
+        }
+    ],
+    "address": {
+        "order_to": "myself",
+        "urgency": "extremely-urgent",
+        "name": "Theophilus Nutifafa",
+        "age": "23",
+        "country": "Ghana",
+        "region": "Greater Accra",
+        "town": "Accra",
+        "address": "Valley View University, Oyibi",
+        "contacts": "+233203592400",
+        "latitude": "5.8037411",
+        "longitude": "-0.1214327"
+    },
+    "divisions": {
+        "1584": {
+            "id": 1523,
+            "division": "box",
+            "price": 100,
+            "strength": null,
+            "unit": null,
+            "quantity": 10,
+            "count": 2,
+            "drug_name": "Lyrica Pregabalin Pfizer"
+        },
+        "1732": {
+            "id": 1670,
+            "division": "box",
+            "price": 100,
+            "strength": null,
+            "unit": null,
+            "quantity": 10,
+            "count": 1,
+            "drug_name": "Lyrica"
+        }
+    }
+}
